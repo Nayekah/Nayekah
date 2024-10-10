@@ -1,4 +1,4 @@
-<h1 align= "center"> Halo Wak, Gw Nayaka</h1>
+<h1 align= "center"> Hi there, Nayaka here</h1>
 
 
 <h5 align="center">A second year Informatics Engineering @ Institut Teknologi Bandung</h5>
