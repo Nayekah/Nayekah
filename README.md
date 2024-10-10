@@ -8,7 +8,7 @@
 <div align="center">
   <h4 align="justify"> Welcome to my page, i Guess? My name is Nayaka Ghana Subrata. If you're a CTF player, i think you did know me as "K4tou", but nevermind.
 
-
+  <br>
   p.s. Try read Ao Haru Ride
   </h4>
 
