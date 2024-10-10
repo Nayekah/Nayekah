@@ -1,7 +1,7 @@
 <h1 align= "center"> Hi there, Nayaka here</h1>
 
 
-<h5 align="center">A second year Informatics Engineering @ Institut Teknologi Bandung</h5>
+<h4 align="center">A second year Informatics Engineering @ Institut Teknologi Bandung</h4>
 
 <h3 align="left"> Brief Introduction</h3>
 <h1 align= "center">
