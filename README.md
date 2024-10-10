@@ -31,7 +31,7 @@ username=Nayekah&hide=HTML&langs_count=1&layout=compact&theme=react&border_radiu
 <div align="center">
   <h2> Dump </h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Nayekah/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nayekah/Nayekah/output/github-contribution-grid-snake.svg" />
 
   <br/><br><br/>
 </div>
