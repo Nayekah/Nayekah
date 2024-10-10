@@ -6,10 +6,8 @@
 <h3 align="left"> Brief Introduction</h3>
 <h1 align= "center">
 
-<h3 align="left"> Skills </h3>
-<h1 align= "center">
 
-<h2 align="left"> Languages-Frameworks </h2>
+<h2 align="left"> Skills </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
