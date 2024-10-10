@@ -9,7 +9,14 @@
 <h3 align="left"> Skills </h3>
 <h1 align= "center">
 
-
+<h2 align="center"> Languages-Frameworks </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?=github,python,c,c++" /> <br>
+    <img src="https://skillicons.dev/icons?=html,css,vscode,figma,git" />
+  </a>
+</div>
 
 
 <h2 align="center"> Stats </h2>
