@@ -3,8 +3,9 @@
 
 <h4 align="center">A second year Informatics Engineering student @ Institut Teknologi Bandung</h4>
 
-<h3 align="left"> Brief Introduction</h3>
-<h1 align= "center">
+<h2 align="left"> Brief Introduction</h2>
+<br>
+<div align="center">
 
 
 <h2 align="left"> Skills </h2>
