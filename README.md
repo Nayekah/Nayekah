@@ -26,3 +26,9 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayekah&hide=HTML&langs_count=5&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<h2 align="left"> 🏆 Achievements </h2>
+<br>
+<div align="center">
+
+</div>
