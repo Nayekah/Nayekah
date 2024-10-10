@@ -5,3 +5,6 @@
 
 <h3 align="left"> Brief Introduction</h3>
 <h1 align= "center">
+
+<h3 align="left"> Skills </h3>
+<h1 align= "center">
