@@ -9,7 +9,7 @@
 <h3 align="left"> Skills </h3>
 <h1 align= "center">
 
-<h2 align="center"> Languages-Frameworks </h2>
+<h2 align="left"> Languages-Frameworks </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 </div>
 
 
-<h2 align="center"> Stats </h2>
+<h2 align="left"> Stats </h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Nayekah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
