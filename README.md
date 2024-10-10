@@ -1,7 +1,7 @@
 <h1 align= "center"> Hi there, Nayaka here</h1>
 
 
-<h6 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h6>
+<h5 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h5>
 
 <h2 align="left"> 😎 Brief Introduction</h2>
 <div align="center">
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-
+<br>
 <h2 align="left"> ❄️ Stats </h2>
 <br>
 <div align="center">
@@ -27,6 +27,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayekah&hide=HTML&langs_count=5&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br>
 <h2 align="left"> 🏆 Achievements </h2>
 <br>
 <div align="center">
