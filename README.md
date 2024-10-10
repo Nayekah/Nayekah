@@ -1,7 +1,7 @@
 <h1 align= "center">
 </h1>
 
-<h3 align="center">A second year Informatics Engineering @ Institut Teknologi Bandung</h3>
+<h5 align="center">A second year Informatics Engineering @ Institut Teknologi Bandung</h5>
 
-<h4 align="left"> Brief Introduction</h4>
+<h3 align="left"> Brief Introduction</h3>
 <h1 align= "center">
