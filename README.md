@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp,rust" /> <br>
     <img src="https://skillicons.dev/icons?i=github,html,css,vscode,figma,git,idea,kali" />
   </a>
 </div>
