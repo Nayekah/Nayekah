@@ -41,7 +41,7 @@
 
 <h2 align="left"> 🔍 Find me on </h2>
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/nayaka-ghana-subrata-a30801286/?originalSubdomain=id">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_CODEFORCES_URL">
