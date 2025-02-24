@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/nayaka-ghana-subrata-a30801286/?originalSubdomain=id">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_CODEFORCES_URL">
+  <a href="https://codeforces.com/profile/w1ntr">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
