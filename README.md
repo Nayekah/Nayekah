@@ -1,7 +1,8 @@
 <h1 align= "center"> Hi there, Nayaka here</h1>
 
 
-<h4 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h4>
+<h4 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)
+![bocchi](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)</h4>
 
 <br>
 <h2 align="left"> 😎 Brief Introduction</h2>
