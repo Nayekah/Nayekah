@@ -15,7 +15,7 @@
   </h4>
 
 <br>
-<h2 align="left"> 📱 Skills </h2>
+<h2 align="left"> 📱 Tech Stack </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
