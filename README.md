@@ -1,11 +1,11 @@
 <h1 align= "center"> Hi there, Nayaka here</h1>
 <h4 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h4>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif">
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br clear="both"><br>
 
 <h2 align="left"> 😎 Brief Introduction</h2>
 <div align="center">
@@ -14,6 +14,7 @@
    
   </p>
   </h4>
+</div>
 <br>
 <h2 align="left"> 📱 Tech Stack </h2>
 <br/>
