@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp,cs,rust,solidity" /> <br>
-    <img src="https://skillicons.dev/icons?i=docker,github,html,css,vscode,figma,git,idea,ubuntu,kali,arch" />
+    <img src="https://skillicons.dev/icons?i=docker,github,html,css,vscode,idea,nvim,figma,git,ubuntu,kali,arch" />
   </a>
 </div>
 <br>
