@@ -20,8 +20,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp,cs,rust,solidity" /> <br>
-    <img src="https://skillicons.dev/icons?i=docker,github,html,css,vscode,idea,neovim,figma,git,ubuntu,kali,arch" />
+    <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp,cs,rust,solidity,js,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,github,html,css,vscode,idea,neovim,figma,git,ubuntu,kali,arch,azure" />
   </a>
 </div>
 <br>
