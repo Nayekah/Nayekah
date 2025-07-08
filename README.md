@@ -1,4 +1,5 @@
 <h1 align= "center"> Hi there, Nayaka here</h1>
+<img src="https://komarev.com/ghpvc/?username=Nayekah&color=red&style=for-the-badge"/>
 <h4 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h4>
 
 <div align="center">
