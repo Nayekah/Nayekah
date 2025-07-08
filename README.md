@@ -1,16 +1,16 @@
-<h1 align= "center"> Hi there, Nayaka here</h1>
-<img src="https://komarev.com/ghpvc/?username=Nayekah&color=red&style=for-the-badge"/>
+<img align="right" width="100" src="https://komarev.com/ghpvc/?username=Nayekah&color=red&style=for-the-badge"/>
+<h1 align= "center"> Hi, I'm Nayaka</h1>
 <h4 align="center">A second year Informatics Engineering student at Institut Teknologi Bandung (ITB)</h4>
 
 <div align="center">
-  <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif">
+  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif">
 </div>
 
 <br clear="both"><br>
 
-<h2 align="left"> 😎 Brief Introduction</h2>
+<h2 align="left"> ✨ About Me</h2>
 <div align="center">
-  <h4 align="justify"> Welcome to my page, i Guess? My name is Nayaka Ghana Subrata. If you're a CTF player, i think you did know me as "K4tou", but nevermind.
+  <h4 align="justify"> Welcome to my page, i Guess? My name is Nayaka Ghana Subrata. If you're a CTF player, i think you did know me as "k4tou" or "w1ntr". Nice to meet you, let's connect!
   <p>
    
   </p>
@@ -33,12 +33,11 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nayekah&count_private=true&show_icons&theme=cobalt&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayekah&hide=HTML&langs_count=5&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br>
-<h2 align="left"> 🏆 Achievements </h2>
-<br>
-<div align="center">
-</div>
+<br/>
+<br/>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayekah&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nayekah&theme=dracula&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left"> 🔍 Find me on </h2>
 <div align="center">
